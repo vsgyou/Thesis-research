@@ -4,7 +4,7 @@ Welcome to the code repository for the DICA project.
 
 🚀 About the Project
 
-The DICA model addresses the challenges of popularity bias in recommendation systems, which often overemphasize popular items
+The [DICA](https://github.com/tsinghua-fib-lab/DICE) model addresses the challenges of popularity bias in recommendation systems, which often overemphasize popular items
 
 ![이미지 2025  1  13  오후 9 36](https://github.com/user-attachments/assets/99334f9a-7039-4cf5-b2aa-15537ec78b95)
 
