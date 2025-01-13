@@ -23,7 +23,11 @@ Data
 
 We used the Movielens-10M and Netflix datasets. To convert explicit feedback data into implicit feedback data, we used only the data with a rating of 5 as an indicator of positive feedback.
 
-|**Dataset**|**User**|**Item**|**Interaction**|
-|------|---|---|---|
-|Movielens-10M|37,962|4,819|1,371,473|
-|Netflix|32,450|8,432|2,212,690|
+<div align="center">
+
+| **Dataset** | **User** | **Item** | **Interaction** |
+|-------------|----------|----------|-----------------|
+| Movielens-10M | 37,962   | 4,819    | 1,371,473       |
+| Netflix       | 32,450   | 8,432    | 2,212,690       |
+
+</div>
