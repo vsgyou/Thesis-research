@@ -11,13 +11,14 @@ The DICA model addresses the challenges of popularity bias in recommendation sys
 This project aims to:
 
 + Rank learning with DICE
----
-We utilize the DICE mechanism to learn rankings, which employs disentangled embeddings of conformity and interest.
 
+    We utilize the DICE mechanism to learn rankings, which employs disentangled embeddings of conformity and interest.
+---
 + Adversarial learning
----
-Additionally, adversarial learning is employed to promote fair recommendations between popular and unpopular items.
 
-+ Data
+    Additionally, adversarial learning is employed to promote fair recommendations between popular and unpopular items.
 ---
-We used the Movielens-10M and Netflix datasets. To convert explicit feedback data into implicit feedback data, we used only the data with a rating of 5 as an indicator of positive feedback.
++ Data
+
+    We used the Movielens-10M and Netflix datasets. To convert explicit feedback data into implicit feedback data, we used only the data with a rating of 5 as an indicator of positive feedback.
+---
