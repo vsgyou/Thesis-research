@@ -29,9 +29,13 @@ We used the Movielens-10M and Netflix datasets. To convert explicit feedback dat
 |-------------|----------|----------|-----------------|
 | Movielens-10M | 37,962   | 4,819    | 1,371,473       |
 | Netflix       | 32,450   | 8,432    | 2,212,690       |
+
 ---
-Experiment result
-
-
 </div>
+
+Experiment result
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b57ed16c-2384-4030-b71f-35f829d2ec35" alt="Image" width="600" />
+</div>
+We experienced a slight decrease in performance in terms of accuracy metrics(Recall, HR, NDCG), but achieved significant improvements in fairness metrics(RSP, REO). Notably, we achieved an over 10% improvement in the RSP metric.
 
