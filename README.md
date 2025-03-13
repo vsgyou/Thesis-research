@@ -29,6 +29,9 @@ We used the Movielens-10M and Netflix datasets. To convert explicit feedback dat
 |-------------|----------|----------|-----------------|
 | Movielens-10M | 37,962   | 4,819    | 1,371,473       |
 | Netflix       | 32,450   | 8,432    | 2,212,690       |
+---
+Experiment result
+
 
 </div>
 
