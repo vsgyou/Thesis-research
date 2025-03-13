@@ -33,15 +33,22 @@ We used the Movielens-10M and Netflix datasets. To convert explicit feedback dat
 ---
 </div>
 
+
+
 Experiment result
 <div align="center">
 <img src="https://github.com/user-attachments/assets/b57ed16c-2384-4030-b71f-35f829d2ec35" alt="Image" width="600" />
 </div>
 We experienced a slight decrease in performance in terms of accuracy metrics(Recall, HR, NDCG), but achieved significant improvements in fairness metrics(RSP, REO). Notably, we achieved an over 10% improvement in the RSP metric.
 
----
+
+
+
 
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4b668f4d-2c41-498d-a32d-17ca38ae525a" alt="Image" width="600" />
+<img src="https://github.com/user-attachments/assets/c8f04fd1-9ace-4200-bdfc-57f2ef4d953c" alt="Image" width="600" />
 </div>
+
+This graph shows the interaction score distribution for combinations of user and item groups, categorized by popularity. The overlap of all four graph types indicates that the proposed model fairly recommends items from both popular and less popular groups to both user types.
