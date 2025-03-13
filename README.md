@@ -39,3 +39,4 @@ Experiment result
 </div>
 We experienced a slight decrease in performance in terms of accuracy metrics(Recall, HR, NDCG), but achieved significant improvements in fairness metrics(RSP, REO). Notably, we achieved an over 10% improvement in the RSP metric.
 
+
